@@ -1,26 +1,25 @@
-Could you make the video layout better as well, or just improve this entire readme.md without change the context 
+<div style="text-align: center;">
+  <h1>🛠️ Vox 3.0 UART Shell Access</h1>
+  <h3>(Universal Asynchronous Receiver-Transmitter)</h3>
+  <p>Gain UART shell access on a Vodafone Vox 3.0 router.</p>
+</div>
 
-"# 🛠️ Vox 3.0 UART Shell Access
-### (Universal Asynchronous Receiver-Transmitter)
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" style="width: 200px; height: auto; display: inline-block;">
+  </div>
 
-Gain UART shell access on a Vodafone Vox 3.0 router.
+---
 
-----
 
 # 🏗️ Plan
 
-I'm trying to gain access to the device with the goal of either installing a different operating system—potentially reimaging it with OpenWRT—or modifying the existing one.
+I'm attempting to gain access to the device with the goal of either installing a different operating system—potentially reimaging it with OpenWRT—or modifying the existing one.
 
 Additionally, I plan to extract the original firmware to retrieve its built-in web UI dashboard. This could also help uncover potential vulnerabilities or explore basic privilege escalation opportunities within the default shell environment of the original firmware.
 
 This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unheard of. Worth a shot, right? 🤷
 
-```bash
-(*I am currently still working on the GoFlood Project but exploring different areas,
-Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
-Im also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully)
-```
-*Check it out the pages here*  :  [Dashboard](https://dashboard.birdo.uk/). \ [Main](https://birdo.uk/).\ [Tools](https://tools.birdo.uk/).\ [Study](https://cs.birdo.uk/).
+---
 
 ## 📷 Preview
 ### UART Access Example:
@@ -29,10 +28,9 @@ At 18 seconds, the magic happens as I had to manually reconnect the wires again.
 
 [Video Link](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30)
 
-
 ### Router Closeups:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/e0d56086-0873-4aca-a1d1-1ef9fd41966b" style="width: 45%; max-width: 300px;"/>
   <img src="https://github.com/user-attachments/assets/0e98267b-256c-4361-be9e-a0d92806d1fe" style="width: 45%; max-width: 300px;"/>
   <img src="https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b" style="width: 45%; max-width: 300px;"/>
@@ -81,5 +79,18 @@ This repository documents how to access a UART serial console on the Vodafone Vo
 
 ## ⚠️ Disclaimer
 
+```bash
+(*I am currently still working on the GoFlood Project but exploring different areas,
+Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
+I'm also making improvements / tweaks to my main page and fixing errors + implementing my tools + CS study page fully)
+```
+
+*Check out the pages here*:
+- [Dashboard](https://dashboard.birdo.uk/)
+- [Main](https://birdo.uk/)
+- [Tools](https://tools.birdo.uk/)
+- [Study](https://cs.birdo.uk/)
+- [GoFlood](https://github.com/1Birdo/GoFlood)
+
+
 This project is for educational and ethical hacking research only. Modifying your device firmware or accessing debug interfaces may void your warranty or violate terms of service. Proceed at your own risk.
-"
