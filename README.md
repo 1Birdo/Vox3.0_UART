@@ -6,6 +6,10 @@
   <img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" width="200">
 </div>
 
+Old References With No Update Since 2024 
+
+- [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station)
+
 ---
 
 <div align="center">
