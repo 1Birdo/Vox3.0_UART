@@ -1,13 +1,14 @@
+
 # 🛠️ Vox 3.0 UART Shell Access
 ### (Universal Asynchronous Receiver-Transmitter)
 
 Gain UART shell access on a Vodafone Vox 3.0 router.
 
-----
+---
 
 # 🏗️ Plan
 
-I'm trying to gain access to the device with the goal of either installing a different operating system—potentially reimaging it with OpenWRT—or modifying the existing one.
+I'm attempting to gain access to the device with the goal of either installing a different operating system—potentially reimaging it with OpenWRT—or modifying the existing one.
 
 Additionally, I plan to extract the original firmware to retrieve its built-in web UI dashboard. This could also help uncover potential vulnerabilities or explore basic privilege escalation opportunities within the default shell environment of the original firmware.
 
@@ -16,9 +17,16 @@ This is purely for educational purposes. While it's unlikely that a highly propr
 ```bash
 (*I am currently still working on the GoFlood Project but exploring different areas,
 Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
-Im also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully)
+I'm also making improvements / tweaks to my main page and fixing errors + implementing my tools + CS study page fully)
 ```
-*Check it out the pages here*  :  [Dashboard](https://dashboard.birdo.uk/). \ [Main](https://birdo.uk/).\ [Tools](https://tools.birdo.uk/).\ [Study](https://cs.birdo.uk/).
+
+*Check out the pages here*:
+- [Dashboard](https://dashboard.birdo.uk/)
+- [Main](https://birdo.uk/)
+- [Tools](https://tools.birdo.uk/)
+- [Study](https://cs.birdo.uk/)
+
+---
 
 ## 📷 Preview
 ### UART Access Example:
@@ -27,10 +35,9 @@ At 18 seconds, the magic happens as I had to manually reconnect the wires again.
 
 [Video Link](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30)
 
-
 ### Router Closeups:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/e0d56086-0873-4aca-a1d1-1ef9fd41966b" style="width: 45%; max-width: 300px;"/>
   <img src="https://github.com/user-attachments/assets/0e98267b-256c-4361-be9e-a0d92806d1fe" style="width: 45%; max-width: 300px;"/>
   <img src="https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b" style="width: 45%; max-width: 300px;"/>
