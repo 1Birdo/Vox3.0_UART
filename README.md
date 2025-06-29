@@ -4,6 +4,15 @@
 Gain UART shell access on a Vodafone Vox 3.0 router.
 ----
 
+# 🏗️ Plan
+
+I'm trying to gain access to the device with the goal of either installing a different operating system—potentially reimaging it with OpenWRT—or modifying the existing one. 
+
+Additionally, I plan to extract the original firmware to retrieve its built-in web UI dashboard.
+This could also help uncover potential vulnerabilities or explore basic privilege escalation opportunities within the default shell environment of the original firmware.
+
+This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unhead of. Worth a shot, right? 🤷
+
 ## 📷 Preview
 ### UART Access Example:
 
