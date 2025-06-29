@@ -24,7 +24,7 @@ Im also Making improvements / Tweaks to my main page and fixing errors + Impleme
  [Dashboard](https://dashboard.birdo.uk/). \
  [Main](https://birdo.uk/).\
  [Tools](https://tools.birdo.uk/).\
- [Study](https://cs.birdo.uk/).\
+ [Study](https://cs.birdo.uk/).
 
 ## 📷 Preview
 ### UART Access Example:
