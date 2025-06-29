@@ -2,26 +2,25 @@
 ### (Universal Asynchronous Receiver-Transmitter)
 
 Gain UART shell access on a Vodafone Vox 3.0 router.
+
 ----
 
 # 🏗️ Plan
 
-I'm trying to gain access to the device with the goal of either installing a different operating system—potentially reimaging it with OpenWRT—or modifying the existing one. 
+I'm trying to gain access to the device with the goal of either installing a different operating system—potentially reimaging it with OpenWRT—or modifying the existing one.
 
-Additionally, I plan to extract the original firmware to retrieve its built-in web UI dashboard.
-This could also help uncover potential vulnerabilities or explore basic privilege escalation opportunities within the default shell environment of the original firmware.
+Additionally, I plan to extract the original firmware to retrieve its built-in web UI dashboard. This could also help uncover potential vulnerabilities or explore basic privilege escalation opportunities within the default shell environment of the original firmware.
 
-This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unhead of. Worth a shot, right? 🤷
+This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unheard of. Worth a shot, right? 🤷
 
-
-(I am currently working of the GoFlood Project still but still changning to have different projects and explore different Areas, I got some other Projects in the background still in production and working on, like my Metrics Dashboard for Developers via SDK's / Requests.  ![Dashboard][https://dashboard.birdo.uk/])
+*(I am currently working on the GoFlood Project but still exploring different areas, like my Metrics Dashboard for Developers via SDKs/Requests. Check it out here: ![Dashboard](https://dashboard.birdo.uk/))*
 
 ## 📷 Preview
 ### UART Access Example:
 
-At 18 Seconds is where the magic begins as i had to manual reconnect the wires again
+At 18 seconds, the magic happens as I had to manually reconnect the wires again.
 
-https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30
+[Video Link](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30)
 
 ### Router Closeups:
 ![Image 1](https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b)
