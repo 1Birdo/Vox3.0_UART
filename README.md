@@ -13,6 +13,9 @@ This could also help uncover potential vulnerabilities or explore basic privileg
 
 This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unhead of. Worth a shot, right? 🤷
 
+
+(I am currently working of the GoFlood Project still but still changning to have different projects and explore different Areas, I got some other Projects in the background still in production and working on, like my Metrics Dashboard for Developers via SDK's / Requests.  ![Dashboard][https://dashboard.birdo.uk/])
+
 ## 📷 Preview
 ### UART Access Example:
 
