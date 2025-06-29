@@ -14,24 +14,12 @@ Additionally, I plan to extract the original firmware to retrieve its built-in w
 This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unheard of. Worth a shot, right? 🤷
 
 ```bash
-(*I am currently still working on the GoFlood Project but exploring different areas, Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
+(*I am currently still working on the GoFlood Project but exploring different areas,
+Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
 Check it out here: [Dashboard](https://dashboard.birdo.uk/).
 Im also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully)
 ```
 
-```bash
-# Clone the botnet client repository
-git clone https://github.com/Birdo1221/Better-Go-Cnc.git
-
-# Navigate to the bot directory
-cd Better-Go-Cnc
-
-go mod init bot
-go mod tidy
-
-# Build and run the bot
-go build bot.go
-```
 
 ## 📷 Preview
 ### UART Access Example:
