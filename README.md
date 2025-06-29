@@ -72,11 +72,13 @@ This repository documents how to access a UART serial console on the Vodafone Vo
 
 ## 🖥️ Connection Settings
 
-- **Baud rate:** 115200
-- **Data bits:** 8  
-- **Stop bits:** 1  
-- **Parity:** None  
-- **Flow control:** None
+| Setting       | Value    |
+|---------------|----------|
+| **Baud rate** | 115200   |
+| **Data bits** | 8        |
+| **Stop bits** | 1        |
+| **Parity**    | None     |
+| **Flow control** | None  |
 
 ---
 
