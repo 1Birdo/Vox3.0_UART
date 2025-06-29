@@ -1,4 +1,4 @@
-# Vox3.0-UART
+# Vox3.0 UART
 Getting a UART Shell on a VodaFone VOX 3.0, With Shell access.
 
 ![1000012516](https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b)
