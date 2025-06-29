@@ -19,9 +19,9 @@ Other projects like my Metrics Dashboard via SDKs/Requests is still under-develo
 Im also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully)
 ```
 Check it out here:
- [Dashboard](https://dashboard.birdo.uk/).
- [Main](https://birdo.uk/).
- [Tools](https://tools.birdo.uk/).
+ [Dashboard](https://dashboard.birdo.uk/). \
+ [Main](https://birdo.uk/).\
+ [Tools](https://tools.birdo.uk/).\
  [Study](https://cs.birdo.uk/).
 
 ## 📷 Preview
