@@ -6,7 +6,7 @@ Gain UART (Universal Asynchronous Receiver-Transmitter) shell access on a Vodafo
 ## 📷 Preview
 ### UART Access Example:
 
-At 0.18 Seconds is where the magic begins as i had to manual reconnect the wires again
+At 18 Seconds is where the magic begins as i had to manual reconnect the wires again
 
 https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30
 
