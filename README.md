@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" width="200">
 
   <h1>🛠️ Vox 3.0 UART Shell Access</h1>
+  <img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" width="200">
   <h3>(Universal Asynchronous Receiver-Transmitter)</h3>
   <p>Gain UART shell access on a Vodafone Vox 3.0 router.</p>
 
