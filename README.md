@@ -14,7 +14,9 @@ Additionally, I plan to extract the original firmware to retrieve its built-in w
 This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unheard of. Worth a shot, right? 🤷
 
 ```bash
-*(I am currently still working on the GoFlood Project but exploring different areas, Other projects like my Metrics Dashboard via SDKs/Requests is still under-development. Check it out here: [Dashboard](https://dashboard.birdo.uk/). I'm also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully )*
+*(I am currently still working on the GoFlood Project but exploring different areas, Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
+Check it out here: [Dashboard](https://dashboard.birdo.uk/).
+I'm also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully )*
 ```
 
 ## 📷 Preview
