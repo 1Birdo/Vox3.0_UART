@@ -18,11 +18,11 @@ This is purely for educational purposes. While it's unlikely that a highly propr
 Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
 Im also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully)
 ```
-*Check it out here:
- [Dashboard](https://dashboard.birdo.uk/).\
- [Main](https://birdo.uk/).\
- [Tools](https://tools.birdo.uk/).\
- [Study](https://cs.birdo.uk/).\*
+Check it out here:
+ [Dashboard](https://dashboard.birdo.uk/).
+ [Main](https://birdo.uk/).
+ [Tools](https://tools.birdo.uk/).
+ [Study](https://cs.birdo.uk/).
 
 ## 📷 Preview
 ### UART Access Example:
