@@ -49,21 +49,24 @@ This repository documents how to access a UART serial console on the Vodafone Vo
 
 ## 🔧 What You Need
 
-- A Vodafone Vox 3.0 router
-- USB to TTL serial adapter (e.g., CH340, FTDI)
-- Soldering tools (if UART pins are not populated)
-- Terminal emulator (PuTTY, minicom, screen, etc.)
+| Item                                  |
+|---------------------------------------|
+| A Vodafone Vox 3.0 router             |
+| USB to TTL serial adapter (e.g., CH340, FTDI) |
+| Soldering tools (if UART pins are not populated) |
+| Terminal emulator (PuTTY, minicom, screen, etc.) |
 
 ---
 
 ## 📡 UART Pinout (Typical)
 
-| Pin | Description |
-|-----|-------------|
-| GND | Ground      |
-| TX  | Transmit    |
-| RX  | Receive     |
+| Pin | Description         |
+|-----|---------------------|
+| GND | Ground             |
+| TX  | Transmit           |
+| RX  | Receive            |
 | VCC | *Do not connect* (usually 3.3V) |
+
 
 ---
 
