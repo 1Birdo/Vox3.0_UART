@@ -8,7 +8,7 @@
 
 Old References With No Update Since 2024 
 
-- [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station) "https://openwrt.org"
+- [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station) openwrt.org
 
 ---
 
