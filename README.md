@@ -14,18 +14,6 @@ Additionally, I plan to extract the original firmware to retrieve its built-in w
 
 This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unheard of. Worth a shot, right? 🤷
 
-```bash
-(*I am currently still working on the GoFlood Project but exploring different areas,
-Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
-I'm also making improvements / tweaks to my main page and fixing errors + implementing my tools + CS study page fully)
-```
-
-*Check out the pages here*:
-- [Dashboard](https://dashboard.birdo.uk/)
-- [Main](https://birdo.uk/)
-- [Tools](https://tools.birdo.uk/)
-- [Study](https://cs.birdo.uk/)
-
 ---
 
 ## 📷 Preview
@@ -85,5 +73,18 @@ This repository documents how to access a UART serial console on the Vodafone Vo
 ---
 
 ## ⚠️ Disclaimer
+
+```bash
+(*I am currently still working on the GoFlood Project but exploring different areas,
+Other projects like my Metrics Dashboard via SDKs/Requests is still under-development.
+I'm also making improvements / tweaks to my main page and fixing errors + implementing my tools + CS study page fully)
+```
+
+*Check out the pages here*:
+- [Dashboard](https://dashboard.birdo.uk/)
+- [Main](https://birdo.uk/)
+- [Tools](https://tools.birdo.uk/)
+- [Study](https://cs.birdo.uk/)
+
 
 This project is for educational and ethical hacking research only. Modifying your device firmware or accessing debug interfaces may void your warranty or violate terms of service. Proceed at your own risk.
