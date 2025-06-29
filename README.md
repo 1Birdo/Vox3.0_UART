@@ -10,7 +10,7 @@ Old References With No Update Since 2024
 
 - [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station)  
 
-A Old openwrt.org Write-Up but seems like the original Author Forgot some Key Info.
+A Old [OpenWRT Write-UP](https://openwrt.org/) but seems like the original Author Forgot some Key Info.
 
 ---
 
