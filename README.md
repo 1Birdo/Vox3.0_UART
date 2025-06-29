@@ -21,7 +21,8 @@ This is purely for educational purposes. While it's unlikely that a highly propr
 ```bash
 Outdated References (No Updates Since 2024/04/24 13:47)
 - [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station)  
-A Older [OpenWRT write-up](https://openwrt.org/) that appears to be missing some key information, possibly overlooked by the original author.
+A Older [OpenWRT write-up](https://openwrt.org/) that appears to be missing some key information,
+ possibly overlooked by the original author.
 ```
 
 <div align="center">
