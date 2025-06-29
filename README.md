@@ -91,10 +91,10 @@ Other projects like my Metrics Dashboard via SDKs/Requests is still under-develo
 I'm also making improvements / tweaks to my main page and fixing errors + implementing my tools + CS study page fully)
 ```
 *Check out the pages here*:
-- [Dashboard](https://dashboard.birdo.uk/)
-- [Main](https://birdo.uk/)
-- [Tools](https://tools.birdo.uk/)
-- [Study](https://cs.birdo.uk/)
-- [GoFlood](https://github.com/1Birdo/GoFlood)
+-- [Dashboard](https://dashboard.birdo.uk/)
+-- [Main](https://birdo.uk/)
+-- [Tools](https://tools.birdo.uk/)
+-- [Study](https://cs.birdo.uk/)
+-- [GoFlood](https://github.com/1Birdo/GoFlood)
 This project is for educational and ethical hacking research only. Modifying your device firmware or accessing debug interfaces may void your warranty or violate terms of service. Proceed at your own risk.
 
