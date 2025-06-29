@@ -7,7 +7,8 @@ Gain UART (Universal Asynchronous Receiver-Transmitter) shell access on a Vodafo
 ## 📷 Preview
 
 ### UART Access Example:
-![UART Access](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30)
+UART Access
+(https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30
 
 ### Router Closeups:
 ![Image 1](https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b)
