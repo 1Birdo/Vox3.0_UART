@@ -27,9 +27,14 @@ At 18 seconds, the magic happens as I had to manually reconnect the wires again.
 
 [Video Link](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30)
 
+
+
 ### Router Closeups:
-![Image 1](https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b)
-![Image 2](https://github.com/user-attachments/assets/bb7b793b-454f-48b8-92c0-b2904dcdeab2)
+
+![Image 1](https://github.com/user-attachments/assets/e0d56086-0873-4aca-a1d1-1ef9fd41966b)
+![Image 2](https://github.com/user-attachments/assets/0e98267b-256c-4361-be9e-a0d92806d1fe)
+![Image 3](https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b)
+![Image 4](https://github.com/user-attachments/assets/bb7b793b-454f-48b8-92c0-b2904dcdeab2)
 
 ---
 
