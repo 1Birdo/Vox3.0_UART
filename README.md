@@ -25,8 +25,10 @@ Outdated References (No Updates Since 2024/04/24 13:47)
 ```bash
 A Older
 ```
+
 [OpenWRT write-up](https://openwrt.org/) 
 ```bash
+
 that appears to be missing some key information,
 possibly overlooked by the original author.
 ```
