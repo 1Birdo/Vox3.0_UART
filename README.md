@@ -1,6 +1,7 @@
 # 🛠️ Vox 3.0 UART Shell Access
+### (Universal Asynchronous Receiver-Transmitter)
 
-Gain UART (Universal Asynchronous Receiver-Transmitter) shell access on a Vodafone Vox 3.0 router.
+Gain UART shell access on a Vodafone Vox 3.0 router.
 ----
 
 ## 📷 Preview
