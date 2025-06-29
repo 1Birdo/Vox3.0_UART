@@ -24,7 +24,8 @@ Outdated References (No Updates Since 2024/04/24 13:47)
 - [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station)
 ```bash
 A Older [OpenWRT write-up](https://openwrt.org/) that appears to be missing some key information,
-possibly overlooked by the original author.```
+possibly overlooked by the original author.
+```
 
 
 <div align="center">
