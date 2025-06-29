@@ -6,11 +6,6 @@
   <img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" width="200">
 </div>
 
-Outdated References (No Updates Since 2024/04/24 13:47)
-
-- [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station)  
-A Older [OpenWRT write-up](https://openwrt.org/) that appears to be missing some key information, possibly overlooked by the original author.
-
 <div align="center">
   <h2>🏗️ Plan</h2>
 </div>
@@ -22,6 +17,12 @@ Additionally, I plan to extract the original firmware to retrieve its built-in w
 This is purely for educational purposes. While it's unlikely that a highly proprietary device from a major corporate ISP would have vulnerabilities, it's not unheard of. Worth a shot, right? 🤷
 
 ---
+
+```bash
+Outdated References (No Updates Since 2024/04/24 13:47)
+- [Reference 1 ](https://openwrt.org/toh/vodafone/vodafone_power_station)  
+A Older [OpenWRT write-up](https://openwrt.org/) that appears to be missing some key information, possibly overlooked by the original author.
+```
 
 <div align="center">
   <h2>📷 Preview</h2>
