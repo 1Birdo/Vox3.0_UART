@@ -1,9 +1,9 @@
-
+<img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" style="width: 200px; height: auto; float: right; margin-left: 20px;">
 # 🛠️ Vox 3.0 UART Shell Access
 ### (Universal Asynchronous Receiver-Transmitter)
 
 Gain UART shell access on a Vodafone Vox 3.0 router.
-<img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" style="width: 200px; height: auto; float: right; margin-right: 20px;">
+
 
 ---
 
