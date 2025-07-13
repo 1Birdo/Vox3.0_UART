@@ -60,6 +60,9 @@ After exhaustive testing the Vodafone Vox 3.0 (Sercomm SHG3000 / Technicolor THG
 
   [![UART Shell Attempt](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30")](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30")
 
+  [![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+
+
   
   <a href=">Video Link</a>
   
