@@ -7,6 +7,16 @@
 
 ---
 
+<h2>🖥️ Connection Settings</h2>
+  
+  | Setting       | Value    |
+  |---------------|----------|
+  | **Baud rate** | 115200   |
+  | **Data bits** | 8        |
+  | **Stop bits** | 1        |
+  | **Parity**    | None     |
+  | **Flow control** | None 
+
 ## 🚨 2025-07-14 – Reality Check
 
 After exhaustive testing the Vodafone Vox 3.0 (Sercomm SHG3000 / Technicolor THG3000) is **not** an easy target:
