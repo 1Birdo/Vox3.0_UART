@@ -57,8 +57,14 @@ After exhaustive testing the Vodafone Vox 3.0 (Sercomm SHG3000 / Technicolor THG
 ## 📺 Updated Media
 
 - [Video: UART boot log (locked shell)](https://github.com/user-attachments/assets/cb16c278-8b7d-44cb-b9e5-09e71b830c30)  
-- [High-res PCB shots](https://github.com/user-attachments/assets/e0d56086-0873-4aca-a1d1-1ef9fd41966b) – UART header & NAND location marked.
-
+  <h3>Router + Setup Closeups:</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/e0d56086-0873-4aca-a1d1-1ef9fd41966b   " width="45%" style="max-width: 300px;">
+    <img src="https://github.com/user-attachments/assets/0e98267b-256c-4361-be9e-a0d92806d1fe   " width="45%" style="max-width: 300px;">
+    <img src="https://github.com/user-attachments/assets/21aac59d-8116-4d93-8dc3-fb684bb86f0b   " width="45%" style="max-width: 300px;">
+    <img src="https://github.com/user-attachments/assets/bb7b793b-454f-48b8-92c0-b2904dcdeab2   " width="45%" style="max-width: 300px;">
+  </div>
+</div>
 ---
 
 ## 📖 Repository Purpose (unchanged)
