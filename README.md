@@ -1,7 +1,6 @@
 <div align="center">
   <h1>🛠️ Vox 3.0 UART Shell – Status Update</h1>
-  <img src="https://github.com/user-attachments/assets/9a058053-3b5b-4f54-aab5-71c49105aeed" alt="Vox 3.0 Router" width="200">
-  <h3>(Universal Asynchronous Receiver-Transmitter)</h3>
+  <img src="https://github.com/user-attachments/assets/9c058053-3b5b-4f54-aab5-71c49105aeed   " alt="Vox 3.0 Router" width="200">  <h3>(Universal Asynchronous Receiver-Transmitter)</h3>
   <p><strong>Current verdict: UART shell reachable, but the bootloader & firmware are locked down. No known vulns or open services.</strong></p>
 </div>
 
