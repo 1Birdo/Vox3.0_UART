@@ -82,7 +82,7 @@ Document **all** attempts—successful or not—to gain root on the Vodafone Vox
 ## 🔗 Quick Links
 
 - [OpenWRT ToH – Vodafone Power Station](https://openwrt.org/toh/vodafone/vodafone_power_station) (still the best public reference)  
-- [My Dashboard](https://dashboard.birdo.uk) – live notes when NAND dump starts.  
+- [My Blog](https://blog.birdo.uk) – live notes when NAND dump starts + Just random Stuff. 
 - [Main Site](https://birdo.uk) – other tooling & write-ups.
 
 ---
