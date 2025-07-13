@@ -24,7 +24,7 @@ After exhaustive testing the Vodafone Vox 3.0 (Sercomm SHG3000 / Technicolor THG
 |---|---|
 | **Bootloader** | Signed & password-protected CFE (Broadcom BTRM). No `autoboot` interruption or `tftp` recovery path. |
 | **Web UI** | Latest ISP firmware (Homeware for THG3000, Sercomm OEM for SHG3000) has **no authenticated RCE** disclosed or fuzzed. |
-| **Network services** | Only exposed ports are 22 (SSH) and 80/443 (HTTP/S). SSH is key-only, HTTP/S is CSRF-hardened. |
+| **Network services** | Only usable exposed ports are 22 (SSH) and 80/443 (HTTP/S). SSH is key-only, HTTP/S is CSRF-hardened. |
 | **UART console** | Accessible (115200 8N1, 3.3 V), but drops to a **restricted BusyBox shell** with non-privileged user (`admin`). No `su`, no `sudo`, no writable `/etc`. |
 | **NAND dump** | Possible via **chip-off / SOIC-8 clip**. Requires hot-air or precision rework. ECC is BCH-8 (Technicolor) / BCH-4 (Sercomm). |
 
