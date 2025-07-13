@@ -6,6 +6,13 @@
 
 ---
 
+```bash
+# TL;DR
+# UART ✔️ reachable
+# Shell ❌ locked
+# Next step: chip-off NAND dump
+```
+
 <h2>🖥️ Connection Settings</h2>
   
   | Setting       | Value    |
@@ -86,10 +93,3 @@ Document **all** attempts—successful or not—to gain root on the Vodafone Vox
 - [Main Site](https://birdo.uk) – other tooling & write-ups.
 
 ---
-
-```bash
-# TL;DR
-# UART ✔️ reachable
-# Shell ❌ locked
-# Next step: chip-off NAND dump
-```
